@@ -1,6 +1,7 @@
 import "./App.css";
 import { characters } from "./MarvelData";
 
+//this is a comment
 function App() {
   return (
     <div className="mainBody">
