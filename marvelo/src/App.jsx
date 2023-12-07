@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header">MARVELO</h1>
+        <h1 className="header">Brand-vibz</h1>
         <input placeholder="Search a Marvel Character" className="topInput" />
       </div>
       <div className="cardBody">

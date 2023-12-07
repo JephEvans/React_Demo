@@ -4,6 +4,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: whitesmoke;
 }
 
 .topHeader {
@@ -14,7 +15,8 @@
 }
 
 .header {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  font-family: , Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .topInput {
@@ -34,7 +36,7 @@
   max-width: 20vw;
   margin: 5vw auto;
   border: 1px solid #ffffff22;
-  background-color: #282c34;
+  background-color: #2e0e52;
   background: linear-gradient(0deg, #282c34 0%, rgba(17, 0, 32, 0.5) 100%);
   box-shadow: 0 7px 20px 5px #00000088;
   border-radius: 0.7rem;
@@ -46,7 +48,7 @@
 .card hr {
   width: 100%;
   border: none;
-  border-bottom: 1px solid #88888855;
+  border-bottom: 1px solid #49096ea9;
   margin-top: 0;
 }
 .card ins {
@@ -66,7 +68,7 @@
 }
 .card .main .description {
   margin: 0.5rem 0;
-  color: #a89ec9;
+  color: rgb(161, 180, 231);
 }
 .card .main .avatarInfo {
   display: flex;
@@ -76,7 +78,7 @@
 .nft .main .avatarInfo .price {
   display: flex;
   align-items: center;
-  color: #ee83e5;
+  color: #c99b9b;
   font-weight: 700;
 }
 .nft .main .avatarInfo .price ins {
@@ -86,7 +88,7 @@
 .nft .main .avatarInfo .duration {
   display: flex;
   align-items: center;
-  color: #a89ec9;
+  color: #8f628f;
   margin-right: 0.2rem;
 }
 .nft .main .avatarInfo .duration ins {
