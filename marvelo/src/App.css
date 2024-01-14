@@ -60,9 +60,9 @@
   width: 90%;
   padding: 1rem;
 }
-.card .main .avatarImage {
+.card .main .legendImage {
   border-radius: 0.5rem;
-  width: 15vw;
+  width: 17.5vw;
   height: 47vh;
   object-fit: cover;
 }
@@ -70,7 +70,7 @@
   margin: 0.5rem 0;
   color: rgb(161, 180, 231);
 }
-.card .main .avatarInfo {
+.card .main .legengInfo {
   display: flex;
   justify-content: space-between;
   align-items: center;
